@@ -13,7 +13,7 @@
 			{
 				"buffer_size": 192,
 				"encoding": "UTF-8",
-				"line_ending": "Windows"
+				"line_ending": "Unix"
 			}
 		},
 		{
@@ -78,6 +78,8 @@
 	],
 	"file_history":
 	[
+		"/C/Xampp/htdocs/Project-749/.git/COMMIT_EDITMSG",
+		"/C/Xampp/htdocs/1/.git/COMMIT_EDITMSG",
 		"/C/Users/Александр/.ssh/id_rsa.pub"
 	],
 	"find":
@@ -131,8 +133,8 @@
 						"selection":
 						[
 							[
-								39,
-								39
+								176,
+								176
 							]
 						],
 						"settings":
@@ -171,7 +173,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
@@ -199,7 +201,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
