@@ -75,10 +75,10 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Xampp/htdocs/Project-749"
 	],
 	"file_history":
 	[
+		"/C/Users/Александр/.ssh/id_rsa.pub"
 	],
 	"find":
 	{
@@ -131,8 +131,8 @@
 						"selection":
 						[
 							[
-								135,
-								135
+								39,
+								39
 							]
 						],
 						"settings":
@@ -171,7 +171,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
@@ -199,7 +199,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 2,
 					"type": "text"
 				}
 			]
